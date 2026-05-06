@@ -1,5 +1,5 @@
 # Project Background
-Research on (Republic of Chad) government budget allocation helping audience understand governments public funds. Includes collecting data, analysing and generating insights. Data can be viewed in this [link](https://docs.google.com/spreadsheets/d/1jziRy2r3Ospl8jHQamnZoHrB-4qBXxY2vX7xyrI1aB8/edit?usp=sharing)
+Research on (**Republic of Chad**) government budget allocation helping audience understand governments public funds. Includes collecting data, analysing and generating insights. Data can be viewed in this [link](https://docs.google.com/spreadsheets/d/1jziRy2r3Ospl8jHQamnZoHrB-4qBXxY2vX7xyrI1aB8/edit?usp=sharing)
 
 # Project Objective
 -Help audiences understand how governments allocate public funds and where gaps often emerge.
