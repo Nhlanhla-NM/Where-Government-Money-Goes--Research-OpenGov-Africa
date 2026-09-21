@@ -5,7 +5,7 @@ Research on (**Republic of Chad**) government budget allocation helping audience
 - Help audiences understand how governments allocate public funds and where gaps often emerge.
 
 # Executive summary
-# Insights
+## Insights
 
 ### Education
 
